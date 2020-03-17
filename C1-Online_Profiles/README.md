@@ -13,6 +13,6 @@ https://github.com/rpavelka6/liftoff-assignments/edit/master/C1-Online_Profiles/
 https://www.linkedin.com/in/rebeccapavelkastl/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+Resume is in repo called resume.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
